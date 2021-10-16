@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "updated": "2021-10-16T06:31:47Z",
+  "id": "claat-template-100",
+  "duration": 35,
+  "title": "ハンズオンテキスト",
+  "authors": "kanemoto",
+  "summary": "CLaaT を利用したコンテンツ作成のテンプレートとして利用可能なファイルです。",
+  "source": "1KTHwb8e4zo1TZ43ydLsnX525HPOVCSqjwhECrzJ38pM",
+  "theme": "100-basic",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "100-Basic"
+  ],
+  "tags": [],
+  "url": "claat-template-100"
+}
